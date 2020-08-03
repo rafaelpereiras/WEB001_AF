@@ -1,0 +1,5 @@
+GIT CLONE
+GIT ADD E GIT ADD*
+git config --global user.email "seu email"
+git config --global user.name "seu nome"
+GIT PUSH ORIGIN MASTER
